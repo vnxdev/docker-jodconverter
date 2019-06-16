@@ -1,1 +1,1 @@
-This image eugenmayer/jodconverter:rest with additional fonts installed
+Basically eugenmayer/jodconverter:rest but with additional fonts installed
